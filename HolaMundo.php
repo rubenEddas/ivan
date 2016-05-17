@@ -6,4 +6,4 @@
  * and open the template in the editor.
  */
 
-echo "Prueba01.";
+echo "Prueba01 COMIIT.";
